@@ -1,0 +1,7 @@
+button 3/2 : accel/brake - DC motor, 7Seg, LED(brake, 00111100)
+button 5/4 toggle : L/R turn blinker - LED blinking toggle(11000000, 00000011)
+button 1 toggle : wiper - servo motor
+VR : handle - step motor
+
+uWave : AEB - DC motor, 7seg, LED (brake, 00111100), buzzer, interrupt
+
